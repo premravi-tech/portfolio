@@ -1,3 +1,3 @@
-# fabric-end-to-end-analytics-platform
+# Readme
 
-This project demonstrates an end to end analytics solution built using Microsoft Fabric. The goal is to ingest external data from Bing API, process it using a lakehouse architecture, and deliver actionable insights through Power BI and data activation workflows.
+This is a repo of my personal projects
